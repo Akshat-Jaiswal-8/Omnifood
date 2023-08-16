@@ -59,7 +59,7 @@ Meal 1: Japanese Gyozas
 - Average rating: 4.9
 - Number reviews: 537
 
-Meal 2:
+Meal 2: Avocado Salad
 
 - Category: Vegan and Paleo
 - Calories: 400
@@ -119,22 +119,26 @@ Create account
 Sign in
 iOS app
 Android app
+
 About Omnifood
 For Business
 Cooking partners
 Careers
+
 Recipe directory
 Help center
 Privacy & terms
 
-# sections
+######
 
--logo + navigation
--hero
--featured in
--how it works
--meals (and list of diets)
--testimonials + gallery
--pricing + features
--cta
--footer
+## Sections
+
+- Logo + Navigation
+- Hero
+- Featured in
+- How it works
+- Meals (and list of diets)
+- Testimonials + gallery
+- Pricing + features
+- CTA
+- Footer
